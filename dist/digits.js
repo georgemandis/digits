@@ -1,8 +1,10 @@
 /*
-* George Mandis
-* ==
 * Digits
-* 2017
+* ==
+* By George Mandis (george.mand.is, snaptortoise.com)
+* January 2nd, 2017
+* Licensed under the MIT License (http://opensource.org/licenses/MIT)
+* It feels a little silly that the comments are longer than the code :)
 */
 
 function digits(number, place) {
