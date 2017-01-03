@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digits</title>
+  <script src='../dist/digits.js'></script>
+</head>
+<body>
+  <p>All the good stuff is in the console :)</p>
+  
+  <script>
+  
+     place = 1; 
+     number = Math.round( Math.random() * 100000000 );
+
+     console.log("Number:", number);
+
+     while ( digits(number,place) !== false ) {
+      console.log( "Digit #" + place + ": " + digits(number, place) );
+      place++;
+     }
+  
+  
+  </script>
+</body>
+</html>
