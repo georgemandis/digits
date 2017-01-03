@@ -6,6 +6,6 @@ Arrays are a simpler and likely more efficient way to achieve what I was going f
 
 For more context please see my blog post:
 
-[Pico, Fermi, Bagels with JavaScript and Math](http://george.mand.is/2017/01/pico-fermi-bagels/)
+[Pico, Fermi, Bagels with JavaScript and Math — George Mandis](http://george.mand.is/2017/01/pico-fermi-bagels/)
 
 I thought about wrapping this up as an npm package, but it feels [a little absurd](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/) to me. However, if there's a demand for that I'd be happy to pursue it. 
